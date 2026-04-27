@@ -1,4 +1,4 @@
-**Hi 👋, I'm Kunal Mishra**
+<h1 align="center">Hi 👋, I'm Kunal Mishra</h1>
 
 <!--
 **kunalmishra25/kunalmishra25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
